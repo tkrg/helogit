@@ -7,3 +7,4 @@ new line after commit 7879b74, test unstage files
 after commit 5449ac3,add line in dev
 hotfix works for master, developed on branch dev
 after commit 5449ac3,add conflict line in master
+after commit c25d438, master keeps going
